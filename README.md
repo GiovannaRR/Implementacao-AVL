@@ -23,8 +23,10 @@ Uma Árvore AVL é uma Árvore de Busca Binária (ABB) com uma propriedade de ba
 Sempre que uma operação de inserção ou remoção viola essa propriedade, a árvore executa uma ou mais **rotações** para restaurar o balanceamento.
 
 ## 📂 Estrutura do Projeto
-.
-├── AVL.cpp                  # Arquivo principal com a implementação da árvore
-├── output/
-│   └── AVL.exe              # Arquivo executável (gerado após compilação)
-└── README.md                # Este arquivo :)
+```
+  .
+  ├── AVL.cpp                  # Arquivo principal com a implementação da árvore
+  ├── output/
+  │   └── AVL.exe              # Arquivo executável (gerado após compilação)
+  └── README.md                # Este arquivo :)
+```
